@@ -143,8 +143,8 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="changeHistory" destination="fZ8-Hu-m51" id="CFg-mV-Ahg"/>
                         <outlet property="counterLabel" destination="OkY-ft-WbT" id="RLB-Hp-Tm4"/>
+                        <outlet property="historyTextView" destination="fZ8-Hu-m51" id="CFg-mV-Ahg"/>
                         <outlet property="minusButton" destination="LsE-vf-ejP" id="ULD-Xb-n30"/>
                         <outlet property="plusButton" destination="iIn-UG-VIn" id="a67-uN-XdS"/>
                         <outlet property="resetButton" destination="q2w-Gp-xSr" id="C40-kA-Umb"/>
